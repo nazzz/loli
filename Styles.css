@@ -1,0 +1,351 @@
+@charset "utf-8";
+/* CSS Document */
+
+.UnitName {
+  font-family: "Times New Roman", Times, serif;
+	font-size: 24px;
+	font-weight: bold;
+	background-color: #FFCC33;
+	padding-top: 15px;
+	padding-right: 10px;
+	padding-bottom: 10px;
+	padding-left: 10px;
+}
+.SectionOdd {
+	font-family: Arial, Helvetica, sans-serif;
+	font-size: 12px;
+	padding-top: 5px;
+	padding-right: 5px;
+	padding-bottom: 5px;
+	padding-left: 5px;
+	background-color: #FFFFCC;
+	text-indent: 10px;
+}
+.SectionEven {
+	font-family: Arial, Helvetica, sans-serif;
+	font-size: 12px;
+	padding-top: 5px;
+	padding-right: 5px;
+	padding-bottom: 5px;
+	padding-left: 5px;
+	background-color: #FFDDDD;
+	text-indent: 10px;
+}
+.SectionStart {
+	font-family: Arial, Helvetica, sans-serif;
+	font-size: 2px;
+	background-color: #999999;
+	height: 2px;
+}
+.SubtitleOdd {
+	font-family: Arial, Helvetica, sans-serif;
+	font-size: 14px;
+	font-style: italic;
+	font-weight: bold;
+	color: #990000;
+	background-color: #FFFFCC;
+}
+.SubtitleEven {
+	font-family: Arial, Helvetica, sans-serif;
+	font-size: 14px;
+	font-style: italic;
+	font-weight: bold;
+	color: #990000;
+	background-color: #FFDDDD;
+}
+.CourseNum {
+	font-family: Arial, Helvetica, sans-serif;
+	font-size: 18px;
+	background-color: #CCFFFF;
+	padding-top: 15px;
+	padding-right: 4px;
+	padding-bottom: 4px;
+	padding-left: 10px;
+}
+.AdditionalSections {
+	font-family: Arial, Helvetica, sans-serif;
+	font-size: 14px;
+	font-style: italic;
+	font-weight: bold;
+	background-color: #F4F4FF;
+}
+.PageTitle {
+	font-family: Arial, Helvetica, sans-serif;
+	font-size: 36px;
+	font-weight: bold;
+}
+.ScheduleDescription {
+	font-family: Arial, Helvetica, sans-serif;
+	font-size: 24px;
+	text-indent: 20px;
+}
+.CatalogDescription {
+	font-family: Arial, Helvetica, sans-serif;
+	font-size: 24px;
+	text-indent: 20px;
+}
+.BlogLink {
+	font-family:Arial, Helvetica, sans-serif;
+	font-size: 24;
+	text-indent: 20px;
+}
+.Index {
+	font-family: Arial, Helvetica, sans-serif;
+	font-size: 18px;
+	font-weight: bold;
+}
+.Semester {
+	font-family: Arial, Helvetica, sans-serif;
+	font-size: 24px;
+}
+.Date {
+	font-family: Arial, Helvetica, sans-serif;
+	font-size: 14px;
+	font-style: italic;
+	text-indent: 20px;
+}
+.Description {
+	font-family: "Times New Roman", Times, serif;
+	font-size: 18px;
+	padding-top: 20px;
+	padding-right: 40px;
+	padding-bottom: 20px;
+	padding-left: 40px;
+	width: 800px;
+}
+.ShareThis {
+	width: 800px;
+	text-align: center;
+}
+.Offered {
+	color: #CC0000;
+	text-align: center;
+	background-color: #FFFFCC;
+}
+.CourseDescription {
+	font-family: "Times New Roman", Times, serif;
+	font-size: 18px;
+	padding-top: 5px;
+	padding-bottom: 5px;
+	width: 800px;
+	background-color: #FFFFCC;
+}
+.CourseWasOffered {
+	font-family: "Times New Roman", Times, serif;
+	font-size: 12px;
+	padding-top: 5px;
+	width: 800px;
+	background-color: #FFFFCC;
+	color: #C06;
+}
+.FinePrint {
+	font-family: "Times New Roman", Times, serif;
+	font-size: 12px;
+	padding-top: 10px;
+	padding-right: 10px;
+	padding-bottom: 10px;
+	padding-left: 10px;
+	width: 800px;
+}
+.CourseName {
+	font-family: Arial, Helvetica, sans-serif;
+	font-size: 18px;
+	font-weight: bold;
+	background-color: #AAFFAA;
+	padding-top: 15px;
+	padding-right: 4px;
+	padding-bottom: 4px;
+	padding-left: 4px;
+}
+.AddInfo {
+	font-family:Arial, Helvetica, sans-serif;
+	font-size: 16px;
+}
+.Heading1 {
+	font-family: Arial, Helvetica, sans-serif;
+	font-size: 36px;
+}
+.Heading2 {
+	font-family: Arial, Helvetica, sans-serif;
+	font-size: 24px;
+}
+.Heading3 {
+	font-family: Arial, Helvetica, sans-serif;
+	font-size: 18px;
+}
+.Heading4 {
+	font-family: Arial, Helvetica, sans-serif;
+	font-size: 12px;
+}
+.IndexTable1 {
+	font-family: Arial, Helvetica, sans-serif;
+	font-size: 24px;
+	font-weight: bold;
+	background-color: #CCFF99;
+}
+.IndexTable2 {
+	font-family: Arial, Helvetica, sans-serif;
+	font-size: 18px;
+	font-weight: bold;
+	background-color: #FFCC99;
+	padding-left: 30px;
+}
+.IndexTable3 {
+	font-family: Arial, Helvetica, sans-serif;
+	font-size: 24px;
+	font-weight: bold;
+	background-color: #99FFFF;
+}
+.IndexTable4 {
+	font-family: Arial, Helvetica, sans-serif;
+	font-size: 16px;
+	font-weight: bold;
+	background-color: #DDDDFF;
+	padding-top: 3px;
+	padding-right: 8px;
+	padding-bottom: 3px;
+	padding-left: 8px;
+}
+.InRed {
+	color: #FF0000;
+}
+.IndexTable {
+	margin-top: 10px;
+}
+.BulletList {
+	font-family: Arial, Helvetica, sans-serif;
+	font-size: 18px;
+	width: 800px;
+	list-style-type: disc;
+	padding-top: 15px;
+}
+.SectionTitleOdd {
+	font-family: Arial, Helvetica, sans-serif;
+	font-size: 14px;
+	font-style: italic;
+	font-weight: bold;
+	color: #000099;
+	background-color: #FFFFCC;
+}
+.SectionTitleEven {
+	font-family: Arial, Helvetica, sans-serif;
+	font-size: 14px;
+	font-style: italic;
+	font-weight: bold;
+	color: #000099;
+	background-color: #FFDDDD;
+}
+.SectionTopicOdd {
+	font-family: Arial, Helvetica, sans-serif;
+	font-size: 14px;
+	font-style: italic;
+	font-weight: bold;
+	color: #990000;
+	background-color: #FFFFCC;
+}
+.SectionTopicEven {
+	font-family: Arial, Helvetica, sans-serif;
+	font-size: 14px;
+	font-style: italic;
+	font-weight: bold;
+	color: #990000;
+	background-color: #FFDDDD;
+}
+.InfoClass {
+	font-family: Arial, Helvetica, sans-serif;
+	font-size: 16px;
+	background-color: #FFCC99;
+}
+.InfoTopic {
+	font-family: Arial, Helvetica, sans-serif;
+	font-size: 16px;
+	background-color: #CCFF66;
+}
+.InfoInstructor {
+	font-family: Arial, Helvetica, sans-serif;
+	font-size: 16px;
+	background-color: #FFCCFF;
+}
+.InfoMeetings {
+	font-family: Arial, Helvetica, sans-serif;
+	font-size: 16px;
+	background-color: #CCFF66;
+}
+.InfoSIS {
+	font-family: Arial, Helvetica, sans-serif;
+	font-size: 16px;
+	background-color: #FFFFCC;
+}
+.InfoSISDescription {
+	font-family: Arial, Helvetica, sans-serif;
+	font-size: 12px;
+	background-color: #FFFFCC;
+}
+.InfoWebsite {
+	font-family: Arial, Helvetica, sans-serif;
+	font-size: 16px;
+	background-color: #CCFFFF;
+}
+.InfoTitle {
+	font-family: Arial, Helvetica, sans-serif;
+	font-size: 16px;
+	background-color: #CCFFFF;
+}
+.InfoDescription {
+	font-family: Arial, Helvetica, sans-serif;
+	font-size: 16px;
+	background-color: #CCFFFF;
+}
+.InfoSyllabus {
+	font-family: Arial, Helvetica, sans-serif;
+	font-size: 16px;
+	background-color: #CCFFFF;
+}
+.InfoComments {
+	font-family: Arial, Helvetica, sans-serif;
+	font-size: 16px;
+	background-color: #CCFFFF;
+}
+.InfoOpenTo {
+	font-family: Arial, Helvetica, sans-serif;
+	font-size: 16px;
+	color: #336666;
+}
+.InfoFulfills {
+	font-family: Arial, Helvetica, sans-serif;
+	font-size: 16px;
+	color: #3300FF;
+}
+.InfoPermission {
+	font-family: Arial, Helvetica, sans-serif;
+	font-size: 16px;
+	color: #FF0000;
+}
+.Content3 {
+	font-family: "Times New Roman", Times, serif;
+	font-size: 18px;
+}
+.IndentedContent3 {
+	font-family: "Times New Roman", Times, serif;
+	font-size: 18px;
+	padding-left: 30px;
+}
+.Note {
+	font-family: "Times New Roman", Times, serif;
+	font-size: 18px;
+	padding-top: 10px;
+	padding-right: 10px;
+	padding-bottom: 10px;
+	padding-left: 10px;
+	width: 800px;
+	margin-top: 20px;
+	margin-right: 40px;
+	margin-bottom: 20px;
+	margin-left: 40px;
+	background-color: #CCCCFF;
+}
+.Popup {
+	font-family: Georgia, "Times New Roman", Times, serif;
+	font-size: 18px;
+	font-weight: normal;
+}
